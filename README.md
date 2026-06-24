@@ -7,7 +7,8 @@ Operations: Supports Addition, Subtraction, Multiplication, and Division.
 Flexible Input: Recognizes both single letters (A, S, M, D) and full operation names (e.g., 'Addition').
 Interactive Loop: Allows multiple calculations in one session without restarting the script.
 Input Validation: Gracefully handles invalid choices to ensure a smooth user experience.
-🛠️ How it works
+
+ How it works
 
 The script uses standard Python functions for mathematical logic and a while True loop to keep the program running until the user chooses to exit.
 
